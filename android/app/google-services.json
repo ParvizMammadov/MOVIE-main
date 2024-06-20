@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "558979670593",
+    "project_id": "myfirstproject-de63f",
+    "storage_bucket": "myfirstproject-de63f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:558979670593:android:1e9875fc5ebcf559479cc0",
+        "android_client_info": {
+          "package_name": "com.example.movie_dovie"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6ww4HdFqsc2fYEh3f2rysBifMVmTRsKo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:558979670593:android:baa9d129b2e8a5d3479cc0",
+        "android_client_info": {
+          "package_name": "com.pako.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6ww4HdFqsc2fYEh3f2rysBifMVmTRsKo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

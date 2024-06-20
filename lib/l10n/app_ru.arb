@@ -1,0 +1,23 @@
+  {
+    "@@locale": "ru",
+    "applanguage": "Язык приложения",
+    "logout": "Выйти",
+    "az": "Aзербайджанский",
+    "en": "Aнглийский",
+    "ru": "Pусский",
+    "movieday": "Фильм дня!!",
+    "nowplaying": "Сейчас играет",
+    "upcoming": "Предстоящие",
+    "toprated": "Самые популярные",
+    "popular": "Популярный",
+    "description": "Описание",
+    "details": "Подробности",
+    "nofavoritesyet": "Пока нет избранных",
+    "notfound": "Не найдено",
+    "releasedate": "Дата выпуска",
+    "originallanguage": "Язык оригинала",
+    "novideoswatchedyet": "Видео еще не просмотрено",
+    "exit": "Ты хочешь выйти?"
+    
+  }
+  

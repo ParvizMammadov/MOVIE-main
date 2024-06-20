@@ -1,0 +1,22 @@
+ {
+    "@@locale": "az",
+    "applanguage": "Tətbiq Dili",
+    "logout": "Çıxış",
+    "az": "Azərbaycan dili",
+    "en": "İngilis dili",
+    "ru": "Rus dili",
+    "movieday": "Günün filmi!!",
+    "nowplaying": "İndi oynayır",
+    "upcoming": "Qarşıdan gələn",
+    "toprated": "Ən yüksək reytinq",
+    "popular": "Məşhur",
+    "description": "Təsvir",
+    "details": "Təfərrüatlar",
+    "nofavoritesyet": "Hələ favorit yoxdur",
+    "notfound": "Tapılmadı",
+    "releasedate": "Buraxılış tarixi",
+    "originallanguage": "Orijinal dil",
+    "novideoswatchedyet": "Hələ heç bir videoya baxılmayıb",
+    "exit": "Çıxmaq istəyirsən?"
+ }
+  

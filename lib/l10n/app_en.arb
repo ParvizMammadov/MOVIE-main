@@ -1,0 +1,22 @@
+ {
+    "@@locale": "en",
+    "applanguage": "App Language",
+    "logout": "Logout",
+    "az": "Azerbaijani",
+    "en": "English",
+    "ru": "Russian",
+    "movieday": "Movie of the day!!",
+    "nowplaying": "Now playing",
+    "upcoming": "Upcoming",
+    "toprated": "Top rated",
+    "popular": "Popular",
+    "description": "Description",
+    "details": "Details",
+    "nofavoritesyet": "No favorites Yet",
+    "notfound": "Not found",
+    "releasedate": "Release date",
+    "originallanguage": "Original language",
+    "novideoswatchedyet": "No videos watched yet",
+    "exit": "You want to get out?"
+ }
+  
